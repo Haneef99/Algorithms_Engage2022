@@ -11,10 +11,6 @@ Recommendations to the users based on their watch history
 [Documentation](https://drive.google.com/file/d/1xuck8aw-W0NbDo46B4s-RqU4nwqI8Jxg/view?usp=sharing)
 
 
-## Demo
-
-
-[Demo](https://1drv.ms/v/s!AsPCWtN4eVOhvElBV3ggNwyovbDg?e=PcSqYt)
 ## Run Locally
 
 Make sure you have python 3.9 or above( preferably 3.10.1 ) and nodejs( v16.13.1 or above ) on your Local machine
